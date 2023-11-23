@@ -7,7 +7,7 @@ ez-setup
 ipython
 ipython-genutils
 monotonic
-numpy
+numpy 
 pathlib2
 pickleshare
 prompt-toolkit
