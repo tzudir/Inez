@@ -1,0 +1,11 @@
+botans = ['I am fine...', 'I am doing great...', 'I\'m fine, thank you...', 'I am glad you asked, thank you...',
+          'Everything is good... thank you...', 'Everything is great...', 'Everything Seems good...']
+compos = ['At your service', 'Ask me', 'Waiting for your command', 'Tell me something to do', 'How can I help you?']
+byes = ['until next time', 'bye bye', 'see you soon', 'chao', 'goodbye', 'catch you later', 'see you next time',
+        'see you later']
+introans = ['I am Inez, your virtual personal assistant', 'They call me "Inez"', 'People call me "Inez"',
+            'My name is Inez']
+readyans = ['I am online and ready...', 'Ready', 'Up and running...', 'Always ready to help and assist...']
+projectDetails = "Inez is a virtual assistant developed for better accessiblity and interactivity in an open source environment. This vitual assistant is used to perform some regular tasks like - Getting Date, Time or Day, Simple arithmetic calculations, and Even searching almost anything on internet. These tasks can be performed just by using some voice commands. The project is developed in python."
+webSearch = ['found something...', 'This is what I found...', 'Here is what I found on the Internet...',
+             'Here is what I found...', 'Found something...', 'I got this on the Internet...']

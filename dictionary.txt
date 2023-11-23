@@ -1,0 +1,20 @@
+conjunctions = ['For', 'And', 'Nor', 'But', 'Or', 'Yet', 'So', 'After', 'Although', 'As', 'Because', 'Before', 'If',
+                'Once', 'Since', 'Though', 'Unless', 'Until', 'When', 'Where', 'While']
+prepositions = ['About', 'Above', 'Across', 'After', 'Against', 'Along', 'Amid', 'Among', 'Around', 'At', 'Before',
+                'Behind', 'Below', 'Beneath', 'Beside', 'Besides', 'Between', 'Beyond', 'By', 'Down', 'In', 'Inside',
+                'Into', 'Near', 'Of', 'Off', 'On', 'Onto', 'Opposite', 'Outside', 'Over', 'Past', 'To', 'Toward',
+                'Towards', 'Under', 'Underneath', 'Until', 'Up', 'Upon', 'Versus', 'Via', 'With', 'Within']
+articles = ['A', 'An', 'The']
+specialChars = {'hyphen': '-', 'Dash': '-', 'dot': '.', 'full stop': '.', 'comma': ',', 'exclamation mark': '!',
+                'forward slash': '/', 'backslash': '\\', 'backward slash': '\\', 'at the rate': '@', 'hash': '#',
+                'dollar sign': '$', 'percent sign': '%', 'caret': '^', 'circumflex': '^', 'ampercent': '&',
+                'and sign': '&', 'Asterisk': '*', 'asterisk': '*', 'parentheses open': '(', 'parentheses close': ')',
+                'parentheses': '()', 'round bracket open': '(', 'round bracket close': ')', 'plus sign': '+',
+                'vertical bar': '|', 'pipe sign': '|', 'curly bracket open': '{', 'curly bracket close': '}',
+                'square bracket open': '[', 'square bracket close': ']', 'angle bracket open': '<',
+                'angle bracket close': '>', 'question mark': '?', 'tilde': '~', 'grave sign': '`',
+                'double inverted quotes': '"', 'double inverted comma': '"', 'inverted quotes': "'",
+                'inverted comma': "'", 'single inverted quotes': "'", 'single inverted comma': "'", 'colon': ':',
+                'semicolon': ';'}
+mExtTypes = [['.mp3', '.wav', '.wma', '.m4a', '.xspf'],
+             ['.mp4', '.mkv', '.avi', '.webm', '.3gp', '.gif', '.wmv', '.mov', '.vob', '.flv']]

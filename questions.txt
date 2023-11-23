@@ -1,0 +1,65 @@
+toggleListening = [
+    ['start listening', 'listen', 'Inez listen', 'start listening', 'Inez start listening',
+     'resume listening'],
+    ['on hold', 'stop listening', 'stop listening', 'Inez stop listening', 'pause listening']]
+helpcom = ['show all commands', 'show help', 'help', 'show commands', 'show help commands', 'all commands']
+info = ['summarize the project', 'project summary', 'tell me something about you in details', 'details about you',
+        'your project summary', 'project summary and details', 'project details']
+closing = ['terminate conversation', 'terminate now', 'exit chat', 'exit now', 'terminate', 'close chat',
+           'close conversation', 'close yourself', 'exit conversation', 'end now', 'end chat', 'end conversation']
+botcall = ['how is everything Inez', 'Inez how are you', 'how are you', 'how are you Inez', 'how are you doing',
+           'how are you doing Inez', 'how is everything going on', "what's up Inez"]
+frequest = [['what is the time right now', "what's the time right now", 'what time is it right now', "what's the time",
+             'what time is it in the clock', 'what is the time', "what's the time now", 'what time is it now',
+             'tell me the time'],
+            ["what's the date today", 'what is the date today', "today's date is", "tell me today's date",
+             "today's date is"],
+            ["what is today's day", "what's today's day", 'what is the day today', "today's day is",
+             "tell me today's day"]]
+greets2 = ['hey Inez', 'hi Inez', 'hello Inez']
+readycheck = ['Inez', 'you there Inez', 'are you there Inez', 'Inez are you there', 'Inez you there',
+              'are you ready', 'Inez are you ready', 'you ready Inez', 'Inez you ready']
+botintro = ['who are you', "what's your name", 'who am I talking to', 'what are you', 'what is your name',
+            'what are you called', 'what do people call you']
+weatherRep = ['how is the weather today', 'current weather conditions', 'how is the weather', 'weather conditions',
+              'weather forecast']
+typeMode = ['typing mode on', 'typing mode off']
+whereAbouts = ['where am I', 'what is my location', 'what is my current location', "what's my location",
+               "what's my current location", 'get my location', 'what is this place']
+mPlayerToggle = [['play', 'start playing', 'resume playing', 'play that', 'play media'],
+                 ['pause', 'hold it', 'pause media', 'pause that'],
+                 ['stop', 'stop playing', 'stop media', 'close media']]
+mMediaType = [['song', 'music'], ['video', 'visual'], ['movie', 'film']]
+automateKBoard = [
+    ['close', 'close that', 'close the program', 'close active window', 'close this program', 'close this'],
+    ['new tab', 'open new tab', 'start new tab', 'open in new tab', 'make new tab', 'start in new tab'],
+    ['enter', 'press enter', 'press return', 'type enter', 'type return', 'press enter button', 'press return button',
+     'press enter key', 'press return key', 'enter key'],
+    ['press right enter', 'right enter', 'press right enter button', 'press right return', 'press right return button',
+     'right enter key', 'press right enter key', 'press right return key', 'right return key'],
+    ['backspace', 'press backspace', 'press backspace button', 'type backspace', 'backspace key',
+     'press backspace key'], ['delete', 'delete key', 'press delete key', 'press delete', 'press delete button'],
+    ['tab', 'tab key', 'tab button', 'press tab key', 'press tab button', 'press tab'],
+    ['shift', 'left shift', 'press left shift', 'left shift key', 'press left shift key', 'press left shift button',
+     'press shift', 'press shift key', 'press shift button', 'left shift button'],
+    ['right shift', 'right shift key', 'right shift button', 'press right shift key', 'press right shift button'],
+    ['caps lock', 'press caps lock', 'caps lock key', 'caps lock button', 'press caps lock key',
+     'press caps lock button'],
+    ['num lock', 'press num lock', 'num lock key', 'num lock button', 'press num lock key', 'press num lock button'],
+    ['control', 'left control', 'control button', 'control key', 'left control key', 'left control button',
+     'press control key', 'press control button', 'press left control key', 'press left control button'],
+    ['alter', 'left alter', 'press left alter', 'press alter', 'alter key', 'left alter key', 'alter button',
+     'left alter button', 'press alter key', 'press alter button', 'press left alter key', 'press left alter button'],
+    ['right alter', 'right alter key', 'right alter button', 'press right alter', 'press right alter key',
+     'press right alter button'],
+    ['right control', 'right control key', 'right control button', 'press right control', 'press right control key',
+     'press right control button'],
+    ['escape', 'press escape', 'escape key', 'escape button', 'press escape key', 'press escape button'],
+    ['page up', 'page up key', 'scroll down', 'scroll right', 'page up button', 'press page up', 'press page up key',
+     'press page up button'],
+    ['page down', 'page down key', 'scroll up', 'scroll left', 'page down button', 'press page down',
+     'press page down key', 'press page down button'],
+    ['space', 'space bar', 'space bar key', 'space bar button', 'press space bar', 'press space bar key',
+     'press space bar button'],
+    ['screenshot', 'new screenshot', 'take screenshot', 'create screenshot', 'click a screenshot', 'get screenshot',
+     'get a screenshot', 'click screenshot']]
