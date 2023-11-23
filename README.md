@@ -8,3 +8,4 @@ Inez is a simple virtual assistant that can do simple tasks given by the user vi
 
 Inez assists the end-user with day-to-day activities like general human conversation, searching queries in Google, Wikipedia, searching for videos, retrieving images, live weather conditions, word meanings, playing music, do basic arithmetic calculations and reminding the user about the scheduled events and tasks. The user statements/commands are analysed with the help of machine learning to give an optimal solution
 
+![Inez](demo.png)
